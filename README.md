@@ -18,7 +18,7 @@ demo code for paper "A deep learning-based ensemble method for helmet-wearing de
 
 ## Cite
 
-'''
+```
 @article{fan2020deep,
   title={A deep learning-based ensemble method for helmet-wearing detection},
   author={Fan, Zheming and Peng, Chengbin and Dai, Licun and Cao, Feng and Qi, Jianyu and Hua, Wenyi},
@@ -28,4 +28,4 @@ demo code for paper "A deep learning-based ensemble method for helmet-wearing de
   year={2020},
   publisher={PeerJ Inc.}
 }
-'''
+```
