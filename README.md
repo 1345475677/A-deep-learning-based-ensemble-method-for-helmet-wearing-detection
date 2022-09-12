@@ -21,9 +21,7 @@ Then, we integrate these two base algorithms with an ensemble method.
 
 ## Cite
 
-Please cite our paper if you use this code in your own work:
 
-```
 @article{fan2020deep,
   title={A deep learning-based ensemble method for helmet-wearing detection},
   author={Fan, Zheming and Peng, Chengbin and Dai, Licun and Cao, Feng and Qi, Jianyu and Hua, Wenyi},
@@ -33,5 +31,4 @@ Please cite our paper if you use this code in your own work:
   year={2020},
   publisher={PeerJ Inc.}
 }
-```# A-deep-learning-based-ensemble-method-for-helmet-wearing-detection
-# A-deep-learning-based-ensemble-method-for-helmet-wearing-detection
+
