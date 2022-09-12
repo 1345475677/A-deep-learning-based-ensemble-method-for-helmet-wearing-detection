@@ -1,9 +1,6 @@
 A deep learning-based ensemble method for helmet-wearing detection
 ====
-A deep learning-based ensemble method for helmet-wearing detection.
-We use one base algorithm to detect relatively large heads and helmets. 
-Also, we use the other base algorithm to detect relatively small heads, and we add another convolutional neural network to detect whether there is a helmet above each head. 
-Then, we integrate these two base algorithms with an ensemble method.
+demo code for paper "A deep learning-based ensemble method for helmet-wearing detection"
 
 
 ## Requirements
@@ -21,7 +18,7 @@ Then, we integrate these two base algorithms with an ensemble method.
 
 ## Cite
 
-
+'''
 @article{fan2020deep,
   title={A deep learning-based ensemble method for helmet-wearing detection},
   author={Fan, Zheming and Peng, Chengbin and Dai, Licun and Cao, Feng and Qi, Jianyu and Hua, Wenyi},
@@ -31,4 +28,4 @@ Then, we integrate these two base algorithms with an ensemble method.
   year={2020},
   publisher={PeerJ Inc.}
 }
-
+'''
